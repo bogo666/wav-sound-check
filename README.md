@@ -18,13 +18,17 @@ $ ./wav-sound-check some_premaster.wav
 Sound Check Info for somme_premaster.wav
 ========================================
 
-Approx Length:        00h:02m:50.88s
-Bit Depth:            24
-Sample Rate:          48 kbps
-iLUFS:                -14.3081
-Max Short-term LUFS:  -10.7634
-Loudness Range:       8.4
-True Peak:            -0.161641
-Crest Factor:         -14.146459
-Max Momentary LUFS:   -8.95639
+Approx Length:          00h:02m:53.54s
+Bit Depth:              24
+Sample Rate:            48 kbps
+Loudness iLUFS:         -21.0245
+Max Short-term LUFS:    -17.5142
+Loudness Range:         10.9
+True Peak:              -3.92289
+Crest Factor:           -17.10161
+Max Momentary LUFS:     -14.8636
+Sound Check Norm Gain:  2.92
+
+                     Left               Right
+Noise Floor:         -125.03            -125.15
 ```

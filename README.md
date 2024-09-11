@@ -1,4 +1,4 @@
-# wave-sound-check
+# wav-sound-check
 
 Using the Apple Digital Masters tools `afconvert` & `afinfo` on MacOS,
 produce Apple Music "sound check" info, useful for Audio Mastering Engineers.
@@ -10,6 +10,11 @@ Copyright (c) 2024 Chris Foote.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
+
+
+## Using
+
+Copy the script to somewhere in your $PATH.
 
 ## Example Output
 
